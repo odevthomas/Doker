@@ -25,8 +25,6 @@
 </p>
 
 
-![image](https://github.com/user-attachments/assets/8b075691-4301-4e23-8621-d70d5da10594)
-![image](https://github.com/user-attachments/assets/a928a5b5-7a8e-40e6-be1b-c56630de6e16)
 
 ---
 
@@ -82,6 +80,8 @@ A API estará disponível em `http://localhost:3000`.
 
 ---
 
+![image](https://github.com/user-attachments/assets/a928a5b5-7a8e-40e6-be1b-c56630de6e16)
+
 ## 📂 Estrutura
 
 ```
@@ -101,6 +101,7 @@ docker-compose.yml
 package.json
 .env
 ```
+![image](https://github.com/user-attachments/assets/8b075691-4301-4e23-8621-d70d5da10594)
 
 ---
 
