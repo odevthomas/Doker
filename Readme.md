@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/Version-1.0.0-success" alt="Version"/>
 </p>
 
+
+![image](https://github.com/user-attachments/assets/8b075691-4301-4e23-8621-d70d5da10594)
+![image](https://github.com/user-attachments/assets/a928a5b5-7a8e-40e6-be1b-c56630de6e16)
+
 ---
 
 ## ⚙️ Funcionalidades
